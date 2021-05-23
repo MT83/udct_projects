@@ -1,2 +1,2 @@
 # udct_projects
-udacity NAnodegree projects
+udacity Nanodegree projects
